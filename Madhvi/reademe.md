@@ -6,6 +6,7 @@ orange
 realorange
 real orrange
 grapes
+<<<<<<< HEAD
 =======
 mango
 brnach1.1.1
@@ -17,3 +18,7 @@ apple
 ice apple 
 pulpyorange
 >>>>>>> branch1.1
+=======
+guava
+gorilla
+>>>>>>> branch1.2
