@@ -1,11 +1,24 @@
 branch1
 github1
 apple
-juice
-lemon
-apple
+orange
+<<<<<<< HEAD
+realorange
+real orrange
+grapes
+<<<<<<< HEAD
+=======
 mango
-![alt text](image.png)![alt text](<Screenshot 2024-03-24 233111.png>)
-RAhul
-kriti 
-puja
+brnach1.1.1
+grapesss
+watermelon
+peach
+lichi
+apple
+ice apple 
+pulpyorange
+>>>>>>> branch1.1
+=======
+guava
+gorilla
+>>>>>>> branch1.2
